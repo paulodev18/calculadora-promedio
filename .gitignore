@@ -1,0 +1,11 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.swp
+*.log
