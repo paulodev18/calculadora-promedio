@@ -33,7 +33,7 @@ java -cp src Main
 java -cp src MainImperativo
 
 # Ejecutar programa POO
-java -cp src MainPOO
+java -cp src MainPOO``
 
 
 ## 📦 Tecnologías
