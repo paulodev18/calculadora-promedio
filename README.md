@@ -34,11 +34,19 @@ java -cp src MainImperativo
 
 # Ejecutar programa POO
 java -cp src MainPOO
-Tecnologias
-Java 17
-Termux(Android)
-Git
-Autor
+
+
+##📦 Tecnologías
+
+· Java 17
+· Termux (Android)
+· Git
+
+##👨‍💻 Autor
+
 paulodev18
-Licencia
-Este proyecto está bajonla licencia de MIT.
+
+##📝 Licencia
+
+Este proyecto está bajo la Licencia MIT.
+EOF
