@@ -36,17 +36,17 @@ java -cp src MainImperativo
 java -cp src MainPOO
 
 
-## 📦 Tecnologías
+# 📦 Tecnologías
 
 · Java 17
 · Termux (Android)
 · Git
 
-## 👨‍💻 Autor
+# 👨‍💻 Autor
 
 paulodev18
 
-## 📝 Licencia
+# 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT.
 EOF
